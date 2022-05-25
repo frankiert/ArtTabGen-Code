@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ArtTabGen Generation Code
+message: Please cite this software using these metadata.
+type: software
+authors:
+  - given-names: Sarah
+    family-names: Böning
+    email: sarah.boening@dlr.de
+    affiliation: DLR
+    orcid: 'https://orcid.org/0000-0002-7038-7971'
+  - given-names: Jonas
+    family-names: Mühlmann
+  - given-names: Charlie
+    family-names: Wiegand
+license: Apache-2.0

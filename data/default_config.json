@@ -1,0 +1,411 @@
+{
+  "seed": 829374289348912,
+  "table_value_limit": 500,
+  "row_manipulation_odds": 0.5,
+  "min_table_length": 10,
+  "max_table_length": 15,
+  "do_complex_values": "True",
+  "complex_values_chance": 0.25,
+  "jpg_quality": 80,
+  "image_width": 1080,
+  "image_height": 1920,
+  "number_of_tables": 10,
+  "keyword_chance": 0.4,
+  "image_manipulation_probability": 1,
+  "max_number_spaces": 5,
+  "semantic_word_replacement_min_similarity": 0.5,
+  "semantic_word_replacement_max_similarity": 0.85,
+  "generation_modes_odds": {
+    "1": 0.25,
+    "2": 0.25,
+    "3": 0.25,
+    "4": 0.25
+  },
+  "gt_odds_per_mode": {
+    "1": 2.0,
+    "2": 0.7,
+    "3": 0.7,
+    "4": 0.7
+  },
+  "number_of_columns_odds": {
+    "1": 0.333,
+    "2": 0.333,
+    "3": 0.333
+  },
+  "parameters": [
+    {
+      "name": "font-family",
+      "type": "discrete",
+      "unit": "",
+      "value": [
+        "Arial",
+        "Impact",
+        "Didot",
+        "American Typewriter",
+        "Times New Roman",
+        "Courier",
+        "Comic Sans MS"
+      ]
+    },
+    {
+      "name": "font-size",
+      "type": "continuous",
+      "unit": "px",
+      "value": {
+        "start": 14,
+        "stop": 30,
+        "step": 2
+      }
+    },
+    {
+      "name": "font-weight",
+      "type": "continuous",
+      "unit": "",
+      "value": {
+        "start": 400,
+        "stop": 900,
+        "step": 50
+      }
+    },
+    {
+      "name": "font-style",
+      "type": "discrete",
+      "unit": "",
+      "value": [
+        "normal",
+        "italic",
+        "oblique"
+      ]
+    },
+    {
+      "name": "border-collapse",
+      "type": "discrete",
+      "unit": "",
+      "value": [
+        "separate",
+        "collapse"
+      ]
+    },
+    {
+      "name": "border-spacing",
+      "type": "continuous",
+      "unit": "px",
+      "value": {
+        "start": 0,
+        "stop": 5,
+        "step": 1
+      }
+    },
+    {
+      "name": "border-width",
+      "type": "continuous",
+      "unit": "px",
+      "value": {
+        "start": 0,
+        "stop": 3,
+        "step": 1
+      }
+    },
+    {
+      "name": "border-style",
+      "type": "discrete",
+      "unit": "",
+      "value": [
+        "hidden",
+        "dotted",
+        "solid"
+      ]
+    },
+    {
+      "name": "border-color",
+      "type": "discrete",
+      "unit": "",
+      "value": [
+        "black",
+        "darkgray",
+        "gray"
+      ]
+    },
+    {
+      "name": "text-transform",
+      "type": "discrete",
+      "unit": "",
+      "value": [
+        "capitalize",
+        "uppercase",
+        "lowercase",
+        "none"
+      ]
+    },
+    {
+      "name": "text-align",
+      "type": "discrete",
+      "unit": "",
+      "value": [
+        "start",
+        "end",
+        "center",
+        "justify"
+      ]
+    },
+    {
+      "name": "letter-spacing",
+      "type": "continuous",
+      "unit": "px",
+      "value": {
+        "start": 0,
+        "stop": 10,
+        "step": 1
+      }
+    },
+    {
+      "name": "vertical-align",
+      "type": "discrete",
+      "unit": "",
+      "value": [
+        "baseline",
+        "top",
+        "middle",
+        "bottom",
+        "sub",
+        "text-top"
+      ]
+    },
+    {
+      "name": "text-decoration-style",
+      "type": "discrete",
+      "unit": "",
+      "value": [
+        "solid",
+        "double",
+        "dotted"
+      ]
+    },
+    {
+      "name": "text-decoration-line",
+      "type": "discrete",
+      "unit": "px",
+      "value": [
+        "none",
+        "underline"
+      ]
+    },
+    {
+      "name": "padding",
+      "type": "continuous",
+      "unit": "px",
+      "value": {
+        "start": 5,
+        "stop": 30,
+        "step": 5
+      }
+    },
+    {
+      "name": "margin-left",
+      "type": "continuous",
+      "unit": "px",
+      "value": {
+        "start": 0,
+        "stop": 200,
+        "step": 10
+      }
+    },
+    {
+      "name": "margin-right",
+      "type": "continuous",
+      "unit": "px",
+      "value": {
+        "start": 0,
+        "stop": 100,
+        "step": 10
+      }
+    },
+    {
+      "name": "margin-bottom",
+      "type": "continuous",
+      "unit": "px",
+      "value": {
+        "start": 0,
+        "stop": 100,
+        "step": 10
+      }
+    },
+    {
+      "name": "margin-top",
+      "type": "continuous",
+      "unit": "px",
+      "value": {
+        "start": 0,
+        "stop": 100,
+        "step": 10
+      }
+    },
+    {
+      "name": "width",
+      "type": "continuous",
+      "unit": "px",
+      "value": {
+        "start": 400,
+        "stop": 900,
+        "step": 10
+      }
+    },
+    {
+      "name": "height",
+      "type": "continuous",
+      "unit": "px",
+      "value": {
+        "start": 500,
+        "stop": 1000,
+        "step": 10
+      }
+    },
+    {
+      "name": "background-color",
+      "type": "discrete",
+      "unit": "",
+      "value": [
+        "snow",
+        "white",
+        "azure",
+        "silver",
+        "lightgray",
+        "lightyellow"
+      ]
+    },
+    {
+      "name": "background-color-alternating-row",
+      "type": "discrete",
+      "unit": "",
+      "value": [
+        [
+          "snow",
+          "white",
+          "azure"
+        ],
+        [
+           "silver",
+          "lightgray",
+          "lightyellow"
+        ]
+      ]
+    },
+    {
+      "name": "background-color-alternating-column",
+      "type": "discrete",
+      "unit": "",
+      "value": [
+        [
+          "snow",
+          "white",
+          "azure"
+        ],
+        [
+           "silver",
+          "lightgray",
+          "lightyellow"
+        ]
+      ]
+    },
+    {
+      "name": "color",
+      "type": "discrete",
+      "unit": "",
+      "value": [
+        "black",
+        "dimgray",
+        "midnightblue",
+        "maroon",
+        "teal"
+      ]
+    },
+    {
+      "name": "color-alternating-row",
+      "type": "discrete",
+      "unit": "",
+      "value": [
+        [
+          "black",
+          "dimgray"
+        ],
+        [
+          "midnightblue",
+          "maroon",
+          "teal"
+        ]
+      ]
+    },
+    {
+      "name": "color-alternating-column",
+      "type": "discrete",
+      "unit": "",
+      "value": [
+       [
+          "black",
+          "dimgray"
+        ],
+        [
+          "midnightblue",
+          "maroon",
+          "teal"
+        ]
+      ]
+    }
+  ],
+  "structure_parameters": [
+    {
+      "name": "has-header",
+      "type": "discrete",
+      "value": [
+        true,
+        false
+      ]
+    },
+    {
+      "name": "table-orientation",
+      "type": "discrete",
+      "value": [
+        "vertical",
+        "horizontal"
+      ]
+    }
+  ],
+  "image_manipulators": [
+    {
+      "name": "blur",
+      "type": "continuous",
+      "value": {
+        "start": 3,
+        "stop": 7,
+        "step": 2
+      }
+    },
+    {
+      "name": "contrast",
+      "type": "discrete",
+      "value": [
+        1.1,
+        1.3,
+        2.7
+      ]
+    },
+    {
+      "name": "brightness",
+      "type": "continuous",
+      "value": {
+        "start": -50,
+        "stop": 50,
+        "step": 10
+      }
+    },
+    {
+      "name": "noise",
+      "type": "discrete",
+      "value": [
+        0.05,
+        0.02,
+        0.07
+      ]
+    }
+  ]
+}

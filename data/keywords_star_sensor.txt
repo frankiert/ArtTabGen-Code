@@ -1,0 +1,42 @@
+attitude knowledge error
+field of view,fov
+focal length
+lens aperture
+number of stars tracked,number of tracked stars
+pixel size
+pressure
+sampling time
+single star accuracy bias
+single star accuracy noise
+slew rate,slew rate capability
+slew tolerance
+sun exclusion angle,sun angle,sun avoidance,sun exclustion,sun keep out
+tracking rate,tracking
+acceleration
+acquisition time,aquisition
+altitude,altimeter,altitude meter,altimeters,elevation
+bandwidth,analog bandwidth,band width
+diameter
+dimension,dimensions,size,dimensionality
+dry mass,mass of dry matter
+frequency,temporal frequency,frequencies,frequencies & signals,frequencies and signals,frequence
+height,heights
+length,depth
+lifetime,life span,design lifetime,expected life,life,life duration,life - time,lifespan,mission life
+mechanical vibration,vibration,vibrations,oscillation
+operating shock,mechanical shock,shock,shock ( circulatory ),circulatory shock
+operating temperature,full performance temperature,operating temp range,operating range temperature,operating temp.range,operating temperature range,operation temp,operation temperature range,operational range,tvac operational,temperature operating,temperature range operation,thermal operational,thermal operational range,switch - on temperature,temperature range operational
+output current,outputs analog current,power output maximum current
+output voltage,output analog voltage,outputs analog voltage,vout,analog output voltage
+power consumption,atx,atx power supply,pc power supply unit,psu,power supply,power supply rejection ratio,computer psu,computer power supply,electric energy consumption,energy consumption of electricity,power supply unit,dc power,dc power consumption,electrical consumption,input operating power,input power,supply power,computer power supply units,power supplies
+power dissipation,cpu power dissipation,central processing unit power dissipation,power dissipation of the cpu,power dissipation of the central processing unit
+price
+resolution,image resolution,pixel count
+snr,snr - 1,snr1,signal - to - noise ratio
+storage temperature,storage temperature range,storing temperature,temperature storage
+supply current,electric current,electrical current,current consumption,dc input current,input current
+supply voltage,nominal voltage,supply voltage supervisory circuit,voltage reference,dc range voltage,dc supply voltage,dc voltage,input voltage,input voltage range,operating voltage,supply voltage range
+survival temperature,absolute temperature,thermodynamic temperature,survivable temperature range,tvac survival
+update rate,pace,process rate,rate of process
+wet mass,net weight
+width,breadth

@@ -1,0 +1,29 @@
+Air Gap Thickness,air gap thickness,air - gap,air gap,airgap
+Coil Resistance,coil resistance,electrical resistance,spiral,electromagnetic coil
+Copper Loss,copper loss
+Core Loss,core loss
+Current Source,current source,electric current
+Eddy Current Losses,eddy current losses,eddy current loss
+Electromagnetic Efficiency,electromagnetic efficiency,mechanical efficiency
+Machine Length,machine length,length unit
+Machine Loss Totals,machine loss totals
+Mechanical Power,mechanical power
+Number Of Coil,number of coil,number of coils,# coils,# coil,coil number,number coils,# of coils
+Number Of Phase,number of phase,# phases,phase number,# phase,# of phases
+Number Of Pole Pairs,number of pole pairs,# pole pairs,# pole pair,# of pole pairs,pole pair number,number pole pairs,pole pairs
+Number Of Poles,number of poles,number poles,# poles,pole number,# of poles
+Number Of Rotor,number of rotor,# of rotors,# rotor,rotor number,# rotors
+Number Of Stator,number of stator,# stator,stator number,# of stators,# stators
+Number Of Turns,number of turns,# turns,turn number,# turn,# of turns
+Phase Resistance,phase resistance,ac resistance
+Pm Thickness,pm thickness,magnet thickness,magnet ' s thickness
+Rated Power,rated power,power rating,rating power,rated output power,rated continuous power,nominal power
+Rated Speed,rated speed,rated output speed,rated rotational speed,rating speed,rated continuous speed,speed rating,nominal speed
+Rotor Length,rotor length
+Rotor Outer Diameter,rotor outer diameter,outer diameter of rotor,rotor outer radius,rotor outer radii,outer radius of rotor,rotor od,outer radii of rotor
+Rotor Speed,rotor speed
+Specific Power,specific power
+Stator Inner Diameter,stator inner diameter,inner radius of stator,stator id,inner diameter of stator,stator inner radius,inner radii of stator,stator inner radii
+Stator Length,stator length
+Stator Outer Diameter,stator outer diameter,outer radii of stator,stator outer radius,stator outer radii,stator od,outer diameter of stator,outer radius of stator
+Total Losses,total losses,total loss

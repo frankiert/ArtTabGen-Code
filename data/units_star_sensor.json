@@ -1,0 +1,908 @@
+{
+    "acceleration": {
+        "base_symbols": [
+            "m / s2"
+        ],
+        "base_units": [
+            "metre per second time squared"
+        ],
+        "prefixed_symbols": [
+            "mm / s2",
+            "mm / s2",
+            "nm / s2",
+            "m / ns2"
+        ],
+        "prefixed_units": [
+            "micrometre per second time squared",
+            "millimetre per second time squared",
+            "nanometre per second time squared",
+            "metre per nanosecond time squared"
+        ]
+    },
+    "acquisition time": {
+        "base_symbols": [
+            "h",
+            "min",
+            "s"
+        ],
+        "base_units": [
+            "second",
+            "minute",
+            "hour",
+            "h",
+            "min",
+            "s"
+        ],
+        "prefixed_symbols": [
+            "ns",
+            "ms",
+            "us"
+        ],
+        "prefixed_units": [
+            "microsecond",
+            "millisecond",
+            "nanosecond",
+            "ns",
+            "ms",
+            "us"
+        ]
+    },
+    "altitude": {
+        "base_symbols": [
+            "m"
+        ],
+        "base_units": [
+            "metre"
+        ],
+        "prefixed_symbols": [
+            "cm",
+            "dm",
+            "km",
+            "mm",
+            "mm",
+            "nm"
+        ],
+        "prefixed_units": [
+            "centimetre",
+            "decimetre",
+            "kilometre",
+            "micrometre",
+            "millimetre",
+            "nanometre"
+        ]
+    },
+    "attitude knowledge error": {
+        "base_symbols": [
+            "` `",
+            "'",
+            "arcsec",
+            "arcmin"
+        ],
+        "base_units": [
+            "second angle",
+            "minute angle",
+            "arcsec",
+            "arcmin",
+            "'",
+            "` `"
+        ],
+        "prefixed_symbols": [
+            "mas",
+            "mas",
+            "arcms"
+        ],
+        "prefixed_units": [
+            "millisecond angle",
+            "microsecond angle",
+            "arcms",
+            "mas"
+        ]
+    },
+    "bandwidth": {
+        "base_symbols": [
+            "hz"
+        ],
+        "base_units": [
+            "hertz"
+        ],
+        "prefixed_symbols": [
+            "mhz",
+            "mhz",
+            "chz",
+            "dhz",
+            "dahz",
+            "khz",
+            "mhz",
+            "nhz"
+        ],
+        "prefixed_units": [
+            "microhertz",
+            "millihertz",
+            "centihertz",
+            "decihertz",
+            "decahertz",
+            "kilohertz",
+            "megahertz",
+            "nanohertz"
+        ]
+    },
+    "diameter": {
+        "base_symbols": [
+            "m"
+        ],
+        "base_units": [
+            "metre"
+        ],
+        "prefixed_symbols": [
+            "cm",
+            "dm",
+            "km",
+            "mm",
+            "mm",
+            "nm"
+        ],
+        "prefixed_units": [
+            "centimetre",
+            "decimetre",
+            "kilometre",
+            "micrometre",
+            "millimetre",
+            "nanometre"
+        ]
+    },
+    "dimension": {
+        "base_symbols": [
+            "m"
+        ],
+        "base_units": [
+            "metre"
+        ],
+        "prefixed_symbols": [
+            "cm",
+            "dm",
+            "km",
+            "mm",
+            "mm",
+            "nm"
+        ],
+        "prefixed_units": [
+            "centimetre",
+            "decimetre",
+            "kilometre",
+            "micrometre",
+            "millimetre",
+            "nanometre"
+        ]
+    },
+    "dry mass": {
+        "base_symbols": [
+            "g"
+        ],
+        "base_units": [
+            "gram"
+        ],
+        "prefixed_symbols": [
+            "kg",
+            "kt",
+            "mg",
+            "mg",
+            "ng"
+        ],
+        "prefixed_units": [
+            "kilogram",
+            "kilotonne",
+            "microgram",
+            "milligram",
+            "nanogram"
+        ]
+    },
+    "field of view": {
+        "base_symbols": [
+            "deg"
+        ],
+        "base_units": [
+            "degree"
+        ],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "focal length": {
+        "base_symbols": [
+            "m",
+            "ft",
+            "'",
+            "' '",
+            "yd"
+        ],
+        "base_units": [
+            "foot",
+            "inch",
+            "metre",
+            "mile",
+            "yard",
+            "ft",
+            "'",
+            "' '",
+            "yd"
+        ],
+        "prefixed_symbols": [
+            "cm",
+            "dm",
+            "km",
+            "mm",
+            "mm",
+            "nm"
+        ],
+        "prefixed_units": [
+            "centimetre",
+            "decimetre",
+            "kilometre",
+            "micrometre",
+            "millimetre",
+            "nanometre"
+        ]
+    },
+    "frequency": {
+        "base_symbols": [
+            "hz"
+        ],
+        "base_units": [
+            "hertz"
+        ],
+        "prefixed_symbols": [
+            "ghz",
+            "hhz",
+            "khz",
+            "mhz",
+            "mhz",
+            "mhz",
+            "nhz"
+        ],
+        "prefixed_units": [
+            "gigahertz",
+            "hectohertz",
+            "kilohertz",
+            "megahertz",
+            "microhertz",
+            "millihertz",
+            "nanohertz"
+        ]
+    },
+    "height": {
+        "base_symbols": [
+            "m"
+        ],
+        "base_units": [
+            "metre"
+        ],
+        "prefixed_symbols": [
+            "cm",
+            "dm",
+            "km",
+            "mm",
+            "mm",
+            "nm"
+        ],
+        "prefixed_units": [
+            "centimetre",
+            "decimetre",
+            "kilometre",
+            "micrometre",
+            "millimetre",
+            "nanometre"
+        ]
+    },
+    "length": {
+        "base_symbols": [
+            "m"
+        ],
+        "base_units": [
+            "metre"
+        ],
+        "prefixed_symbols": [
+            "cm",
+            "dm",
+            "km",
+            "mm",
+            "mm",
+            "nm"
+        ],
+        "prefixed_units": [
+            "centimetre",
+            "decimetre",
+            "kilometre",
+            "micrometre",
+            "millimetre",
+            "nanometre"
+        ]
+    },
+    "lens aperture": {
+        "base_symbols": [
+            "m",
+            "ft",
+            "'",
+            "' '",
+            "yd"
+        ],
+        "base_units": [
+            "foot",
+            "inch",
+            "metre",
+            "mile",
+            "yard",
+            "ft",
+            "'",
+            "' '",
+            "yd"
+        ],
+        "prefixed_symbols": [
+            "cm",
+            "dm",
+            "km",
+            "mm",
+            "mm",
+            "nm",
+            "pm"
+        ],
+        "prefixed_units": [
+            "centimetre",
+            "decimetre",
+            "kilometre",
+            "micrometre",
+            "millimetre",
+            "nanometre",
+            "picometre"
+        ]
+    },
+    "lifetime": {
+        "base_symbols": [
+            "a",
+            "years"
+        ],
+        "base_units": [
+            "year",
+            "years"
+        ],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "mechanical vibration": {
+        "base_symbols": [],
+        "base_units": [
+            "grms"
+        ],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "number of stars tracked": {
+        "base_symbols": [],
+        "base_units": [],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "operating shock": {
+        "base_symbols": [],
+        "base_units": [
+            "grms"
+        ],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "operating temperature": {
+        "base_symbols": [
+            "degc"
+        ],
+        "base_units": [
+            "degree celsius"
+        ],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "output current": {
+        "base_symbols": [
+            "a"
+        ],
+        "base_units": [
+            "ampere"
+        ],
+        "prefixed_symbols": [
+            "ga",
+            "ha",
+            "ka",
+            "ma",
+            "ma",
+            "ma",
+            "na"
+        ],
+        "prefixed_units": [
+            "gigaampere",
+            "hectoampere",
+            "kiloampere",
+            "megaampere",
+            "microampere",
+            "milliampere",
+            "nanoampere"
+        ]
+    },
+    "output voltage": {
+        "base_symbols": [
+            "v"
+        ],
+        "base_units": [
+            "volt"
+        ],
+        "prefixed_symbols": [
+            "gv",
+            "hv",
+            "kv",
+            "mv",
+            "mv",
+            "mv",
+            "nv"
+        ],
+        "prefixed_units": [
+            "gigavolt",
+            "hectovolt",
+            "kilovolt",
+            "megavolt",
+            "microvolt",
+            "millivolt",
+            "nanovolt"
+        ]
+    },
+    "pixel size": {
+        "base_symbols": [
+            "m",
+            "ft",
+            "'",
+            "' '",
+            "yd"
+        ],
+        "base_units": [
+            "foot",
+            "inch",
+            "metre",
+            "mile",
+            "yard",
+            "ft",
+            "'",
+            "' '",
+            "yd"
+        ],
+        "prefixed_symbols": [
+            "cm",
+            "dm",
+            "km",
+            "mm",
+            "mm",
+            "nm",
+            "pm"
+        ],
+        "prefixed_units": [
+            "centimetre",
+            "decimetre",
+            "kilometre",
+            "micrometre",
+            "millimetre",
+            "nanometre",
+            "picometre"
+        ]
+    },
+    "power consumption": {
+        "base_symbols": [
+            "w"
+        ],
+        "base_units": [
+            "watt"
+        ],
+        "prefixed_symbols": [
+            "gw",
+            "hw",
+            "kw",
+            "mw",
+            "mw",
+            "mw",
+            "nw"
+        ],
+        "prefixed_units": [
+            "gigawatt",
+            "hectowatt",
+            "kilowatt",
+            "megawatt",
+            "microwatt",
+            "milliwatt",
+            "nanowatt"
+        ]
+    },
+    "power dissipation": {
+        "base_symbols": [
+            "w"
+        ],
+        "base_units": [
+            "watt"
+        ],
+        "prefixed_symbols": [
+            "gw",
+            "hw",
+            "kw",
+            "mw",
+            "mw",
+            "mw",
+            "nw"
+        ],
+        "prefixed_units": [
+            "gigawatt",
+            "hectowatt",
+            "kilowatt",
+            "megawatt",
+            "microwatt",
+            "milliwatt",
+            "nanowatt"
+        ]
+    },
+    "pressure": {
+        "base_symbols": [
+            "atm",
+            "at",
+            "bar",
+            "ba",
+            "m hg",
+            "pa",
+            "torr"
+        ],
+        "base_units": [
+            "atmosphere standard",
+            "atmosphere technical",
+            "bar",
+            "barye",
+            "metre of mercury",
+            "pascal",
+            "torr"
+        ],
+        "prefixed_symbols": [
+            "apa",
+            "cm hg",
+            "cpa",
+            "dapa",
+            "dbar",
+            "dpa",
+            "epa",
+            "fpa",
+            "gpa",
+            "hpa",
+            "kpa",
+            "mpa",
+            "mbar",
+            "mpa",
+            "mbar",
+            "mm hg",
+            "mpa",
+            "npa",
+            "ppa",
+            "ppa",
+            "tpa"
+        ],
+        "prefixed_units": [
+            "attopascal",
+            "centimetre of mercury",
+            "centipascal",
+            "decapascal",
+            "decibar",
+            "decipascal",
+            "exapascal",
+            "femtopascal",
+            "gigapascal",
+            "hectopascal",
+            "kilopascal",
+            "megapascal",
+            "microbar",
+            "micropascal",
+            "millibar",
+            "millimetre of mercury",
+            "millipascal",
+            "nanopascal",
+            "petapascal",
+            "picopascal",
+            "terapascal"
+        ]
+    },
+    "price": {
+        "base_symbols": [
+            "eur",
+            "$",
+            "y =",
+            "ps"
+        ],
+        "base_units": [
+            "united states dollar",
+            "euro",
+            "chinese yuan",
+            "pound sterling",
+            "eur",
+            "$",
+            "y =",
+            "ps"
+        ],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "resolution": {
+        "base_symbols": [
+            "px"
+        ],
+        "base_units": [
+            "pixel",
+            "px"
+        ],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "sampling time": {
+        "base_symbols": [
+            "h",
+            "min",
+            "s",
+            "sec"
+        ],
+        "base_units": [
+            "hour",
+            "minute",
+            "second",
+            "min",
+            "s",
+            "sec"
+        ],
+        "prefixed_symbols": [],
+        "prefixed_units": [
+            "millisecond",
+            "nanosecond"
+        ]
+    },
+    "single star accuracy bias": {
+        "base_symbols": [
+            "` `",
+            "'",
+            "arcsec",
+            "arcmin"
+        ],
+        "base_units": [
+            "second angle",
+            "minute angle",
+            "arcsec",
+            "arcmin",
+            "'",
+            "` `"
+        ],
+        "prefixed_symbols": [
+            "mas",
+            "mas",
+            "arcms"
+        ],
+        "prefixed_units": [
+            "millisecond angle",
+            "microsecond angle",
+            "arcms",
+            "mas"
+        ]
+    },
+    "single star accuracy noise": {
+        "base_symbols": [
+            "` `",
+            "'",
+            "arcsec",
+            "arcmin"
+        ],
+        "base_units": [
+            "second angle",
+            "minute angle",
+            "arcsec",
+            "arcmin",
+            "'",
+            "` `"
+        ],
+        "prefixed_symbols": [
+            "mas",
+            "mas",
+            "arcms"
+        ],
+        "prefixed_units": [
+            "millisecond angle",
+            "microsecond angle",
+            "arcms",
+            "mas"
+        ]
+    },
+    "slew rate": {
+        "base_symbols": [
+            "deg / sec"
+        ],
+        "base_units": [
+            "degree per second time",
+            "deg / sec"
+        ],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "slew tolerance": {
+        "base_symbols": [
+            "deg / sec"
+        ],
+        "base_units": [
+            "degree per second time",
+            "deg / sec"
+        ],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "snr": {
+        "base_symbols": [],
+        "base_units": [],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "storage temperature": {
+        "base_symbols": [
+            "degc"
+        ],
+        "base_units": [
+            "degree celsius"
+        ],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "sun exclusion angle": {
+        "base_symbols": [
+            "deg"
+        ],
+        "base_units": [
+            "degree"
+        ],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "supply current": {
+        "base_symbols": [
+            "a"
+        ],
+        "base_units": [
+            "ampere"
+        ],
+        "prefixed_symbols": [
+            "ga",
+            "ha",
+            "ka",
+            "ma",
+            "ma",
+            "ma",
+            "na"
+        ],
+        "prefixed_units": [
+            "gigaampere",
+            "hectoampere",
+            "kiloampere",
+            "megaampere",
+            "microampere",
+            "milliampere",
+            "nanoampere"
+        ]
+    },
+    "supply voltage": {
+        "base_symbols": [
+            "v"
+        ],
+        "base_units": [
+            "volt"
+        ],
+        "prefixed_symbols": [
+            "gv",
+            "hv",
+            "kv",
+            "mv",
+            "mv",
+            "mv",
+            "nv"
+        ],
+        "prefixed_units": [
+            "gigavolt",
+            "hectovolt",
+            "kilovolt",
+            "megavolt",
+            "microvolt",
+            "millivolt",
+            "nanovolt"
+        ]
+    },
+    "survival temperature": {
+        "base_symbols": [
+            "degc"
+        ],
+        "base_units": [
+            "degree celsius"
+        ],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "tracking rate": {
+        "base_symbols": [
+            "deg / sec"
+        ],
+        "base_units": [
+            "degree per second time",
+            "deg / sec"
+        ],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "update rate": {
+        "base_symbols": [
+            "hz"
+        ],
+        "base_units": [
+            "hertz"
+        ],
+        "prefixed_symbols": [
+            "ghz",
+            "hhz",
+            "khz",
+            "mhz",
+            "mhz",
+            "mhz",
+            "nhz"
+        ],
+        "prefixed_units": [
+            "gigahertz",
+            "hectohertz",
+            "kilohertz",
+            "megahertz",
+            "microhertz",
+            "millihertz",
+            "nanohertz"
+        ]
+    },
+    "wet mass": {
+        "base_symbols": [
+            "g"
+        ],
+        "base_units": [
+            "gram"
+        ],
+        "prefixed_symbols": [
+            "kg",
+            "kt",
+            "mg",
+            "mg",
+            "ng"
+        ],
+        "prefixed_units": [
+            "kilogram",
+            "kilotonne",
+            "microgram",
+            "milligram",
+            "nanogram"
+        ]
+    },
+    "width": {
+        "base_symbols": [
+            "m"
+        ],
+        "base_units": [
+            "metre"
+        ],
+        "prefixed_symbols": [
+            "cm",
+            "dm",
+            "km",
+            "mm",
+            "mm",
+            "nm"
+        ],
+        "prefixed_units": [
+            "centimetre",
+            "decimetre",
+            "kilometre",
+            "micrometre",
+            "millimetre",
+            "nanometre"
+        ]
+    }
+}

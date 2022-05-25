@@ -1,0 +1,624 @@
+{
+    "Air Gap Thickness": {
+        "base_symbols": [
+            "mm"
+        ],
+        "base_units": [
+            "millimetre"
+        ],
+        "prefixed_symbols": [
+            "m",
+            "dam",
+            "dm",
+            "nm",
+            "km",
+            "cm",
+            "mm"
+        ],
+        "prefixed_units": [
+            "nanometre",
+            "decametre",
+            "millimetre",
+            "kilometre",
+            "micrometre",
+            "decimetre",
+            "centimetre",
+            "metre"
+        ]
+    },
+    "Coil Resistance": {
+        "base_symbols": [
+            "o"
+        ],
+        "base_units": [
+            "o"
+        ],
+        "prefixed_symbols": [
+            "co",
+            "no",
+            "mo",
+            "o",
+            "do",
+            "go",
+            "dao"
+        ],
+        "prefixed_units": [
+            "microo",
+            "nanoo",
+            "decio",
+            "kiloo",
+            "centio",
+            "decao",
+            "o",
+            "millio",
+            "gigao",
+            "megao"
+        ]
+    },
+    "Copper Loss": {
+        "base_symbols": [
+            "kw"
+        ],
+        "base_units": [
+            "kilowatt"
+        ],
+        "prefixed_symbols": [
+            "mw",
+            "gw",
+            "w",
+            "nw",
+            "dw",
+            "kw",
+            "daw",
+            "cw"
+        ],
+        "prefixed_units": [
+            "watt",
+            "deciwatt",
+            "gigawatt",
+            "nanowatt",
+            "milliwatt",
+            "decawatt",
+            "kilowatt",
+            "centiwatt",
+            "megawatt",
+            "microwatt"
+        ]
+    },
+    "Core Loss": {
+        "base_symbols": [
+            "kw"
+        ],
+        "base_units": [
+            "kilowatt"
+        ],
+        "prefixed_symbols": [
+            "kw",
+            "cw",
+            "mw",
+            "gw",
+            "w",
+            "dw",
+            "daw",
+            "nw"
+        ],
+        "prefixed_units": [
+            "microwatt",
+            "nanowatt",
+            "deciwatt",
+            "watt",
+            "gigawatt",
+            "milliwatt",
+            "megawatt",
+            "decawatt",
+            "kilowatt",
+            "centiwatt"
+        ]
+    },
+    "Current Source": {
+        "base_symbols": [
+            "a"
+        ],
+        "base_units": [
+            "ampere"
+        ],
+        "prefixed_symbols": [
+            "ka",
+            "ha",
+            "daa",
+            "ma",
+            "ga",
+            "ca",
+            "da",
+            "a",
+            "na"
+        ],
+        "prefixed_units": [
+            "hectoampere",
+            "centiampere",
+            "megaampere",
+            "microampere",
+            "nanoampere",
+            "kiloampere",
+            "ampere",
+            "deciampere",
+            "gigaampere",
+            "milliampere",
+            "decaampere"
+        ]
+    },
+    "Eddy Current Losses": {
+        "base_symbols": [
+            "kw"
+        ],
+        "base_units": [
+            "kilowatt"
+        ],
+        "prefixed_symbols": [
+            "kw",
+            "daw",
+            "cw",
+            "mw",
+            "gw",
+            "w",
+            "nw",
+            "dw"
+        ],
+        "prefixed_units": [
+            "nanowatt",
+            "watt",
+            "gigawatt",
+            "deciwatt",
+            "milliwatt",
+            "decawatt",
+            "kilowatt",
+            "megawatt",
+            "centiwatt",
+            "microwatt"
+        ]
+    },
+    "Electromagnetic Efficiency": {
+        "base_symbols": [
+            "%"
+        ],
+        "base_units": [
+            "percentage",
+            "%"
+        ],
+        "prefixed_symbols": [
+            "%"
+        ],
+        "prefixed_units": [
+            "percentage",
+            "%"
+        ]
+    },
+    "Machine Length": {
+        "base_symbols": [
+            "mm"
+        ],
+        "base_units": [
+            "millimetre"
+        ],
+        "prefixed_symbols": [
+            "dm",
+            "dam",
+            "nm",
+            "km",
+            "cm",
+            "mm",
+            "m"
+        ],
+        "prefixed_units": [
+            "decametre",
+            "micrometre",
+            "centimetre",
+            "millimetre",
+            "kilometre",
+            "decimetre",
+            "metre",
+            "nanometre"
+        ]
+    },
+    "Machine Loss Totals": {
+        "base_symbols": [
+            "kw"
+        ],
+        "base_units": [
+            "kilowatt"
+        ],
+        "prefixed_symbols": [
+            "cw",
+            "mw",
+            "gw",
+            "w",
+            "nw",
+            "dw",
+            "kw",
+            "daw"
+        ],
+        "prefixed_units": [
+            "gigawatt",
+            "deciwatt",
+            "watt",
+            "milliwatt",
+            "decawatt",
+            "megawatt",
+            "kilowatt",
+            "centiwatt",
+            "microwatt",
+            "nanowatt"
+        ]
+    },
+    "Mechanical Power": {
+        "base_symbols": [
+            "kw"
+        ],
+        "base_units": [
+            "kilowatt"
+        ],
+        "prefixed_symbols": [
+            "mw",
+            "gw",
+            "w",
+            "nw",
+            "dw",
+            "kw",
+            "daw",
+            "cw"
+        ],
+        "prefixed_units": [
+            "milliwatt",
+            "decawatt",
+            "kilowatt",
+            "megawatt",
+            "centiwatt",
+            "microwatt",
+            "nanowatt",
+            "watt",
+            "deciwatt",
+            "gigawatt"
+        ]
+    },
+    "Number Of Coil": {
+        "base_symbols": [],
+        "base_units": [],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "Number Of Phase": {
+        "base_symbols": [],
+        "base_units": [],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "Number Of Pole Pairs": {
+        "base_symbols": [],
+        "base_units": [],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "Number Of Poles": {
+        "base_symbols": [],
+        "base_units": [],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "Number Of Rotor": {
+        "base_symbols": [],
+        "base_units": [],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "Number Of Stator": {
+        "base_symbols": [],
+        "base_units": [],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "Number Of Turns": {
+        "base_symbols": [],
+        "base_units": [],
+        "prefixed_symbols": [],
+        "prefixed_units": []
+    },
+    "Phase Resistance": {
+        "base_symbols": [
+            "o"
+        ],
+        "base_units": [
+            "o"
+        ],
+        "prefixed_symbols": [
+            "o",
+            "do",
+            "dao",
+            "no",
+            "mo",
+            "co",
+            "go"
+        ],
+        "prefixed_units": [
+            "o",
+            "millio",
+            "centio",
+            "gigao",
+            "microo",
+            "megao",
+            "nanoo",
+            "decio",
+            "kiloo",
+            "decao"
+        ]
+    },
+    "Pm Thickness": {
+        "base_symbols": [
+            "mm"
+        ],
+        "base_units": [
+            "millimetre"
+        ],
+        "prefixed_symbols": [
+            "dm",
+            "dam",
+            "nm",
+            "km",
+            "cm",
+            "mm",
+            "m"
+        ],
+        "prefixed_units": [
+            "decametre",
+            "millimetre",
+            "micrometre",
+            "centimetre",
+            "kilometre",
+            "decimetre",
+            "metre",
+            "nanometre"
+        ]
+    },
+    "Rated Power": {
+        "base_symbols": [
+            "kw"
+        ],
+        "base_units": [
+            "kilowatt"
+        ],
+        "prefixed_symbols": [
+            "mw",
+            "gw",
+            "w",
+            "dw",
+            "daw",
+            "cw",
+            "nw",
+            "kw"
+        ],
+        "prefixed_units": [
+            "megawatt",
+            "microwatt",
+            "nanowatt",
+            "watt",
+            "gigawatt",
+            "deciwatt",
+            "milliwatt",
+            "decawatt",
+            "kilowatt",
+            "centiwatt"
+        ]
+    },
+    "Rated Speed": {
+        "base_symbols": [
+            "rpm"
+        ],
+        "base_units": [
+            "rpm"
+        ],
+        "prefixed_symbols": [
+            "rpm",
+            "krpm",
+            "min ^ - 1"
+        ],
+        "prefixed_units": [
+            "min ^ - 1",
+            "rpm",
+            "krpm"
+        ]
+    },
+    "Rotor Length": {
+        "base_symbols": [
+            "mm"
+        ],
+        "base_units": [
+            "millimetre"
+        ],
+        "prefixed_symbols": [
+            "m",
+            "dm",
+            "dam",
+            "nm",
+            "km",
+            "cm",
+            "mm"
+        ],
+        "prefixed_units": [
+            "nanometre",
+            "decametre",
+            "millimetre",
+            "micrometre",
+            "kilometre",
+            "decimetre",
+            "centimetre",
+            "metre"
+        ]
+    },
+    "Rotor Outer Diameter": {
+        "base_symbols": [
+            "mm"
+        ],
+        "base_units": [
+            "millimetre"
+        ],
+        "prefixed_symbols": [
+            "nm",
+            "cm",
+            "mm",
+            "km",
+            "m",
+            "dam",
+            "dm"
+        ],
+        "prefixed_units": [
+            "nanometre",
+            "decametre",
+            "micrometre",
+            "centimetre",
+            "millimetre",
+            "kilometre",
+            "decimetre",
+            "metre"
+        ]
+    },
+    "Rotor Speed": {
+        "base_symbols": [
+            "rpm"
+        ],
+        "base_units": [
+            "rpm"
+        ],
+        "prefixed_symbols": [
+            "rpm"
+        ],
+        "prefixed_units": [
+            "rpm"
+        ]
+    },
+    "Specific Power": {
+        "base_symbols": [
+            "kw / kg"
+        ],
+        "base_units": [
+            "kw / kg"
+        ],
+        "prefixed_symbols": [
+            "kw / kg",
+            "w / kg"
+        ],
+        "prefixed_units": [
+            "kw / kg",
+            "w / kg"
+        ]
+    },
+    "Stator Inner Diameter": {
+        "base_symbols": [
+            "mm"
+        ],
+        "base_units": [
+            "millimetre"
+        ],
+        "prefixed_symbols": [
+            "km",
+            "m",
+            "dam",
+            "dm",
+            "nm",
+            "cm",
+            "mm"
+        ],
+        "prefixed_units": [
+            "millimetre",
+            "kilometre",
+            "micrometre",
+            "decimetre",
+            "centimetre",
+            "metre",
+            "nanometre",
+            "decametre"
+        ]
+    },
+    "Stator Length": {
+        "base_symbols": [
+            "mm"
+        ],
+        "base_units": [
+            "millimetre"
+        ],
+        "prefixed_symbols": [
+            "dm",
+            "dam",
+            "nm",
+            "km",
+            "cm",
+            "mm",
+            "m"
+        ],
+        "prefixed_units": [
+            "nanometre",
+            "decametre",
+            "micrometre",
+            "centimetre",
+            "millimetre",
+            "kilometre",
+            "decimetre",
+            "metre"
+        ]
+    },
+    "Stator Outer Diameter": {
+        "base_symbols": [
+            "mm"
+        ],
+        "base_units": [
+            "millimetre"
+        ],
+        "prefixed_symbols": [
+            "dm",
+            "dam",
+            "nm",
+            "km",
+            "cm",
+            "mm",
+            "m"
+        ],
+        "prefixed_units": [
+            "millimetre",
+            "kilometre",
+            "micrometre",
+            "decimetre",
+            "centimetre",
+            "metre",
+            "nanometre",
+            "decametre"
+        ]
+    },
+    "Total Losses": {
+        "base_symbols": [
+            "kw"
+        ],
+        "base_units": [
+            "kilowatt"
+        ],
+        "prefixed_symbols": [
+            "mw",
+            "gw",
+            "w",
+            "nw",
+            "dw",
+            "kw",
+            "daw",
+            "cw"
+        ],
+        "prefixed_units": [
+            "centiwatt",
+            "megawatt",
+            "nanowatt",
+            "microwatt",
+            "watt",
+            "deciwatt",
+            "gigawatt",
+            "milliwatt",
+            "decawatt",
+            "kilowatt"
+        ]
+    }
+}
