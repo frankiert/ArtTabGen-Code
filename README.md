@@ -1,3 +1,5 @@
+Private version of my Open-Source code published at Zenodo: https://zenodo.org/record/6597257.
+
 # ArtTabGen
 
 ArtTabGen (Artificial Table Generation) can generate datasets of tables in the form of key-value-tables;
